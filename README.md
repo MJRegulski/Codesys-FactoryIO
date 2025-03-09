@@ -2,7 +2,7 @@
 
 This tutorial shows how to use CODESYS together with Factory I/O through OPC UA. By following this sample you will create a new CODESYS project, configure it to work with Factory I/O and program the actual controller to control the Assembler scene.
 
-For alternative instructions on how to program using CODESYS Control Win (SoftPlc), please use this link: ![FactoryIO: CODESYS with OPC UA](https://docs.factoryio.com/tutorials/codesys/setting-up/codesys-opc-ua-sp17/)
+For alternative instructions on how to program using CODESYS Control Win (SoftPlc), please use this link: [FactoryIO: CODESYS with OPC UA](https://docs.factoryio.com/tutorials/codesys/setting-up/codesys-opc-ua-sp17/)
 
 ## Creating the Project
 
