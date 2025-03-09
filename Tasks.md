@@ -57,7 +57,6 @@ Extend Node-RED dashboard for Sorting station with use of databases:
 | 3.6 | Create a Node-RED flow to cyclically update "counters" records for all three counters. Cycle time should be equal to 10 sec. |
 | 3.7 | Create a Node-RED flow to cyclically update "vision_camera" records for every scanned item. Include timestamp when scan has been performed. |
 | 3.8 | Using "ui-table" node, display a live counter of parts scanned by vision camera. Columns should include: part identifier used in FactoryIO, description, and total value. |
-| 3.9 | Resetting simulation in FactoryIO (see previous task) should not clear counters in database. |
-| 3.10 | Include a single button for each db table in your Node-RED dashboard to clear records. |
+| 3.9 | Include a single button for each db table in your Node-RED dashboard to clear records. |
 
 > Use a database of your choice to complete this task. During training session, a MariaDB server and HeidiSQL have been used.
